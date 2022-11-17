@@ -1,0 +1,10 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.logo {
+    font-size: 38px;
+    font-weight: 600;
+    color: #0f172a;
+    user-select: none;
+}
